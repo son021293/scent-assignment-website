@@ -4,6 +4,6 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped using [`create-nex
 
 ## Vercel link
 
-Click to the [link](https://scent-assignment-website.vercel.app/recipes):
+Click to the [link](https://scent-assignment-website.vercel.app/recipes)
 
 <!-- #default-branch-switch -->
